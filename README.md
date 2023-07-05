@@ -1,3 +1,5 @@
+theme: Cayman
+
 Data science portfolio
 
 # [Data science salary estimator: Project overview](https://github.com/PlayingNumbers/ds_salary_proj)
