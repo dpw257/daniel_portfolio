@@ -57,9 +57,9 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![](https://github.com/dpw257/daniel_portfolio/blob/main/images/KEN_correlation_visual.png "Salary by Position")
-![](https://github.com/dpw257/daniel_portfolio/blob/main/images/KEN_positions_by_state.png "Job Opportunities by State")
-![](https://github.com/dpw257/daniel_portfolio/blob/main/images/KEN_salary_by_job_title.PNG "Correlations")
+![](images/KEN_correlation_visual.png "Salary by Position")
+![](/images/KEN_positions_by_state.png "Job Opportunities by State")
+![](/images/KEN_salary_by_job_title.PNG "Correlations")
 
 
 ## Model Building 
